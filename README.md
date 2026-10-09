@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Berkay</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Turkiye.<br>
+    <br>I'm a Software Engineer.<br>
 
 </samp>
 
